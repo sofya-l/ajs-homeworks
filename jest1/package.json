@@ -1,0 +1,28 @@
+{
+  "name": "jest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofya-l/jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofya-l/jest1/issues"
+  },
+  "homepage": "https://github.com/sofya-l/jest1#readme",
+  "devDependencies": {
+    "@babel/cli": "^8.0.4",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "jest": "^30.5.1"
+  },
+  "dependencies": {
+    "core-js": "^3.50.0"
+  }
+}
